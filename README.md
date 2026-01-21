@@ -34,4 +34,9 @@ Le projet utilise Cargo pour la gestion des dépendances et la compilation. Pour
 cargo run --release
 ./target/release/julia
 ```
+## Démonstration en vidéo
 
+Voici un aperçu très compressé pour git:
+![Visualisation](vid/demo.gif)
+![Visualisation](vid/screen1.png)
+![Visualisation](vid/screen2.png)
