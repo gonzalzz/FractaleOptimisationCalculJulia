@@ -36,7 +36,7 @@ cargo run --release
 ```
 ## Démonstration en vidéo
 
-Voici un aperçu très compressé pour git:
+Voici un aperçu très compressé être visible sur git:
 ![Visualisation](vid/demo.gif)
 ![Visualisation](vid/screen1.png)
 ![Visualisation](vid/screen2.png)
